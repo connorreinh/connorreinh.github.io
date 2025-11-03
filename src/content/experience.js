@@ -1,7 +1,20 @@
 const experience = [
   {
+    title: 'Software Engineer I',
+    organization: 'Qualtrics',
+    startDate: 'oct 2025',
+    endDate: 'present',
+    description: 'Working on XM Directory.',
+    skills: [
+      'Kubernetes',
+      'AWS',
+      'Docker',
+      'TypeScript',
+    ],
+  },
+  {
     title: 'Software Engineering Teaching Assistant',
-    location: 'University of Washington',
+    organization: 'University of Washington',
     startDate: 'jan 2025',
     endDate: 'jun 2025',
     description: `Instructed 150+ students in the University of Washington's
@@ -21,7 +34,7 @@ const experience = [
   },
   {
     title: 'Compiler Construction Teaching Assistant',
-    location: 'University of Washington',
+    organization: 'University of Washington',
     startDate: 'sep 2023',
     endDate: 'dec 2024',
     description: `Instructed 140+ students in the University of Washington's
@@ -44,7 +57,7 @@ const experience = [
   },
   {
     title: 'Software Engineer Intern',
-    location: 'MedBridge',
+    organization: 'MedBridge',
     startDate: 'jun 2022',
     endDate: 'sep 2022',
     description: `Developed a machine learning algorithm to analyze user trends
@@ -66,7 +79,7 @@ const experience = [
   },
   {
     title: 'Software Engineer',
-    location: 'Husky Robotics',
+    organization: 'Husky Robotics',
     startDate: 'oct 2020',
     endDate: 'jun 2022',
     description: `Implemented user interface for drivers to operate our rover

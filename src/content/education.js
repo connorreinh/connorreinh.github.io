@@ -1,7 +1,7 @@
 const education = [
   {
     title: 'MS in Computer Science and Engineering',
-    location: 'University of Washington',
+    organization: 'University of Washington',
     startDate: 'sep 2024',
     endDate: 'present',
     skills: [
@@ -18,7 +18,7 @@ const education = [
   },
   {
     title: 'BS in Computer Science',
-    location: 'University of Washington',
+    organization: 'University of Washington',
     startDate: 'sep 2020',
     endDate: 'jun 2024',
     skills: [
@@ -43,7 +43,7 @@ const education = [
   },
   {
     title: 'BA in Mathematics',
-    location: 'University of Washington',
+    organization: 'University of Washington',
     startDate: 'sep 2020',
     endDate: 'jun 2024',
     skills: [
